@@ -62,6 +62,7 @@ namespace CarServerXML
             //<Color>Black</Color>
             //<RegistrationNumber>AB12345</RegistrationNumber>
             //</Car>
+            //When testing this, it registers when you disconnect, it waits to deserialize until then
         }
     }
 }
